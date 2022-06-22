@@ -1,0 +1,74 @@
+body{
+    background-color:aquamarine;
+    padding-top:0;
+    background-image: url(./im.jpg); 
+    background-size: cover;
+    margin-left:90px;
+}
+h1{
+    font-size:40px;
+    color:black;
+    padding-left:5px;
+    padding-bottom:1px;
+}
+.color{
+  color:red;
+}
+h3{
+margin-left: 1px;
+}
+.img1{
+width: 10%;
+padding-left: 1100px;
+}
+#img{
+    width: 50%;
+    height: 150px;
+    margin-top: 50px;
+    margin-left: 1px; 
+}
+footer{
+  display: block;
+  padding-top: 210px;
+  padding-right: 100px;
+}
+footer h1{
+  margin-top: 40px;
+  margin-right: 900px;
+ 
+}
+.articles{
+    display:flex;    
+    margin-right:10px;
+    width: 60%;
+    margin-top:10px;
+    height: 80px;
+    background-color: green;
+}
+ul{
+  display: flex;
+  padding-left: 10px;
+}
+
+.price{
+  padding-right:10px;
+  font-size: 20px;
+}
+.number{
+    width: 10%;
+  }
+#somtotal{
+    width: 10%;
+    height: 20px;  
+  }
+#total{
+    width: 20%;
+    height: 20px;
+    border-radius: 50px;
+    margin-right:300px;
+    
+  
+}
+
+
+  
